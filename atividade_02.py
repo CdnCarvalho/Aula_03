@@ -1,3 +1,4 @@
+# AULA SOBRE GITHUB
 num = float(input('Informe o número: '))
 
 if num >= 7:

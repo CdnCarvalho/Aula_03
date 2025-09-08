@@ -1,3 +1,4 @@
+# AULA SOBRE GITHUB
 # Verificar Número e verificar se é positivo ou negativo
 
 num = float(input('Informe um número: '))
